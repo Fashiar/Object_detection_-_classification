@@ -1,7 +1,7 @@
 # Object_detection_-_classification
 Implementation and investigation of different objection detection and classification algorithms
 
-1. Region_rcnn.ipynb
+1. region_cnn.ipynb
 
     This notebook shows the of airplane detection uisng the regional cnn. 
     The implementation of regional cnn is demonstrated from scratch uisng Keras with tensorflow backend
@@ -15,7 +15,7 @@ Implementation and investigation of different objection detection and classifica
       In case of failing to open the "train_mrcnn.ipynb" file here, go to:https://nbviewer.jupyter.org/ 
       and paste https://github.com/Fashiar/Object_detection_-_classification/blob/master/region_cnn.ipynb to the viewer tab
       
-2. Region_rcc_v2.ipynb
+2. region_cnn_v2.ipynb
 
     This notebook also shows the of airplane detection uisng the regional cnn. 
     The implementation of regional cnn is demonstrated from scratch uisng Keras with tensorflow backend
